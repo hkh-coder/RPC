@@ -8,19 +8,19 @@
 
 ## 项目简介
 
-**bin目录：RPC框架测试代码的可执行文件**
+**bin：RPC框架测试代码的可执行文件**
 
-**lib目录：RPC框架生成的静态库和动态库**
+**lib：RPC框架生成的静态库和动态库**
 
-**include目录：RPC框架头文件**
+**include：RPC框架头文件**
 
-**src目录：RPC框架源文件**
+**src：RPC框架源文件**
 
-**test目录：RPC框架测试用例代码**
+**test：RPC框架测试用例代码**
 
-**thirdparty目录：使用到的第三方库，主要使用了tinyxml**
+**thirdparty：使用到的第三方库，主要使用了tinyxml**
 
-**build目录：Cmake编译过程中生成的中间文件**
+**build：Cmake编译过程中生成的中间文件**
 
 ## 编译框架代码
 
