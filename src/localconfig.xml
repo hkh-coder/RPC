@@ -1,0 +1,11 @@
+<?xml version="1.0" ?> 
+<Server>
+  <RpcServer> 
+    <ip>127.0.0.1</ip>
+    <port>6000</port>
+  </RpcServer>
+  <zookeeper>
+    <host>127.0.0.1:2181</host>
+    <timeout>30000</timeout>
+  </zookeeper>
+</Server>

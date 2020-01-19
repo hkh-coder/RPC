@@ -1,0 +1,14 @@
+/home/stu/MyPro/myrpc/build/CMakeFiles/rebuild_cache.dir
+/home/stu/MyPro/myrpc/build/CMakeFiles/edit_cache.dir
+/home/stu/MyPro/myrpc/build/src/CMakeFiles/rebuild_cache.dir
+/home/stu/MyPro/myrpc/build/src/CMakeFiles/myrpc.dir
+/home/stu/MyPro/myrpc/build/src/CMakeFiles/edit_cache.dir
+/home/stu/MyPro/myrpc/build/thirdparty/CMakeFiles/rebuild_cache.dir
+/home/stu/MyPro/myrpc/build/thirdparty/CMakeFiles/edit_cache.dir
+/home/stu/MyPro/myrpc/build/thirdparty/tinyxml/CMakeFiles/rebuild_cache.dir
+/home/stu/MyPro/myrpc/build/thirdparty/tinyxml/CMakeFiles/tinyxml.dir
+/home/stu/MyPro/myrpc/build/thirdparty/tinyxml/CMakeFiles/edit_cache.dir
+/home/stu/MyPro/myrpc/build/test/CMakeFiles/edit_cache.dir
+/home/stu/MyPro/myrpc/build/test/CMakeFiles/rebuild_cache.dir
+/home/stu/MyPro/myrpc/build/test/CMakeFiles/rpc_server.dir
+/home/stu/MyPro/myrpc/build/test/CMakeFiles/rpc_client.dir

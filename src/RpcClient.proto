@@ -1,0 +1,14 @@
+syntax = "proto3"; // 声明protobuf版本号
+
+// 让proto产生服务类和服务类方法
+option cc_generic_services = true; 
+
+message ClientData_Header
+{
+	string UserService = 1;
+	string ServiceMethod = 2;
+}
+
+// 规定RPC框架和客户端之间发送数据的格式
+// header的前四个字节是Userservice和ServiceMethod的大小
+// 剩余的是ServiceMethod被序列化的参数

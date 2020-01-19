@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../lib/myrpc/libmyrpc.a  CMakeFiles/myrpc.dir/RpcClient.cpp.o CMakeFiles/myrpc.dir/RpcClient.pb.cc.o CMakeFiles/myrpc.dir/RpcSer.cpp.o CMakeFiles/myrpc.dir/localconfig.cpp.o CMakeFiles/myrpc.dir/zookeeper.cpp.o
+/usr/bin/ranlib ../../lib/myrpc/libmyrpc.a

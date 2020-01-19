@@ -1,0 +1,37 @@
+syntax = "proto3"; // 声明protobuf版本号
+
+// 让proto产生服务类和服务类方法
+option cc_generic_services = true;  
+
+
+// 定义login的参数格式
+message LogRequest
+{
+	string name = 1;
+	string pwd = 2;
+}
+// 定义regis的参数格式
+message ResRequest
+{
+	int32 id = 1;
+	string name = 2;
+	string pwd = 3;
+}
+// 定义login返回值格式
+message LogResponse
+{
+	bool response = 1;
+}
+// 定义regis的返回值格式
+message ResResponse
+{
+	bool response = 1;
+}
+
+// 将两种类型关联起来
+service LService
+{
+	rpc login(LogRequest) returns(LogResponse);
+	rpc regis(ResRequest) returns(ResResponse);
+}
+
